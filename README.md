@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0x-sxmeer
+- 👋 Hi, I’m @0x-azlaan
 - 👀 I’m interested in Web 3 Ecosystem
 - 🌱 I’m currently learning Rust 
 - 💞️ I’m looking to collaborate on ...
